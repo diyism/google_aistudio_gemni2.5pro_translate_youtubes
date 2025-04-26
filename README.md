@@ -8,3 +8,4 @@
 
 demos:
 1. [AI is the New UI_John Sviokla.html](https://diyism.github.io/google_aistudio_gemni2.5pro_translate_youtubes/AI%20is%20the%20New%20UI_John%20Sviokla.html)
+2. [AI is the new UI by CEO of Qualcomm.html](https://diyism.github.io/google_aistudio_gemni2.5pro_translate_youtubes/AI%20is%20the%20new%20UI%20by%20CEO%20of%20Qualcomm.html)
