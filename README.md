@@ -1,0 +1,1 @@
+# google_aistudio_gemni2.5pro_translate_youtubes
