@@ -8,5 +8,3 @@
 
 demos:
 1. [AI is the New UI_John Sviokla.html](https://diyism.github.io/google_aistudio_gemni2.5pro_translate_youtubes/AI%20is%20the%20New%20UI_John%20Sviokla.html)
-
-<a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
